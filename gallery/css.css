@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+}
+#galleryWrapper{
+    width:70%;
+    margin-left: 15%;
+    margin-top: 7%;
+}
+#gallery{
+    float: left;
+    width: 80%;
+}
+#gallery img{
+    width: 100%;
+}
+.arrowBox{
+    float: left;
+    width: 10%;
+}
+.arrowBox img {
+    width: 100%;
+    margin-top:170%;
+}
+.arrowBox img:hover{
+    width: 95%;
+    cursor: pointer;
+}
+.arrowBox img:active{
+    width: 85%;
+}
