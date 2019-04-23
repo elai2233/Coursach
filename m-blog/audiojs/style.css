@@ -1,0 +1,11 @@
+.audiojs {
+    width: 520px;
+    height: 38px;
+    overflow: hidden;
+    font-family: monospace;
+    font-size: 25px;
+}
+.container1{
+    background-color: gray;
+    width: 520px;
+}
