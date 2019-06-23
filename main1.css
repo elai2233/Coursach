@@ -4,8 +4,6 @@ body{
     margin: 0;
 }
 
-
-
 .head{
     background-color: #fff;
     min-height: 80px;
@@ -132,8 +130,6 @@ body{
     margin-left: 5px;
     transition: .3s ;
 }
-
-
 
 @media screen and (max-width: 1152px){
     .menu{
