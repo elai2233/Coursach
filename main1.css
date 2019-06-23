@@ -4,14 +4,16 @@ body{
     margin: 0;
 }
 
+
+
 .head{
     background-color: #fff;
     min-height: 80px;
     width: 100%;
-    margin: 0px;
+    margin: 0 auto;
     text-align: center;
     box-shadow: 0 1px 3px  0 #888;
-    position: center;
+    position: fixed;
     z-index: 10;
     display: inline-flex;
 }

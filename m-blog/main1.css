@@ -4,14 +4,16 @@ body{
     margin: 0;
 }
 
+
+
 .head{
     background-color: #fff;
     min-height: 80px;
     width: 100%;
-    margin: 0px;
+    margin: 0 auto;
     text-align: center;
     box-shadow: 0 1px 3px  0 #888;
-    position: center;
+    position: fixed;
     z-index: 10;
     display: inline-flex;
 }
@@ -115,7 +117,7 @@ body{
     bottom: -29px;
     background: rgb(4, 52, 65);
     margin-bottom: 78px;
-    z-index: 13;
+    z-index: 10;
     border-top: 1px solid rgb(9,42,51);
     color: rgb(52,100,113);
     text-align: center;
@@ -176,7 +178,7 @@ body{
 }
 
 @media screen and (min-width: 1152px){
-   .img_n img{
-       display: none;
-   }
+    .img_n img{
+        display: none;
+    }
 }
