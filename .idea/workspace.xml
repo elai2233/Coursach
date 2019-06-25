@@ -14,38 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="Gallery.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/m-blog/galleryGD/Gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Blink-182.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/m-blog/Blink-182.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="204" column="12" selection-start-line="204" selection-start-column="12" selection-end-line="204" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GreenDay.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/m-blog/GreenDay.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="200" column="12" selection-start-line="200" selection-start-column="12" selection-end-line="200" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NBHD.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/m-blog/NBHD.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="163" column="12" selection-start-line="163" selection-start-column="12" selection-end-line="163" selection-end-column="12" />
+            <state relative-caret-position="136">
+              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -53,17 +26,35 @@
       <file leaf-file-name="Mymiy_trol.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/m-blog/Mymiy_trol.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2890">
-              <caret line="45" column="67" selection-start-line="45" selection-start-column="67" selection-end-line="45" selection-end-column="67" />
+            <state relative-caret-position="176">
+              <caret line="114" column="119" selection-start-line="114" selection-start-column="119" selection-end-line="114" selection-end-column="119" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Panic! At the Disco.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/m-blog/Panic! At the Disco.html">
+      <file leaf-file-name="GreenDay.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/m-blog/GreenDay.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="175" column="32" selection-start-line="175" selection-start-column="32" selection-end-line="175" selection-end-column="32" />
+            <state relative-caret-position="295">
+              <caret line="111" column="86" selection-start-line="111" selection-start-column="86" selection-end-line="111" selection-end-column="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Blink-182.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/m-blog/Blink-182.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="97" column="24" selection-start-line="95" selection-start-column="20" selection-end-line="97" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="js.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/m-blog/galleryGD/js.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -85,8 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Gallery.html" />
-        <option value="$PROJECT_DIR$/gallery/css.css" />
         <option value="$PROJECT_DIR$/gallery/js.js" />
         <option value="$PROJECT_DIR$/gallery/Gallery.html" />
         <option value="$PROJECT_DIR$/m-blog/galleryBlink/js.js" />
@@ -122,7 +111,6 @@
         <option value="$PROJECT_DIR$/m-blog/guitar.html" />
         <option value="$PROJECT_DIR$/m-blog/indi-rock.html" />
         <option value="$PROJECT_DIR$/m-blog/metal.html" />
-        <option value="$PROJECT_DIR$/m-blog/Mymiy_trol.html" />
         <option value="$PROJECT_DIR$/m-blog/piano.html" />
         <option value="$PROJECT_DIR$/m-blog/picasso_guitar.html" />
         <option value="$PROJECT_DIR$/m-blog/pop-rock.html" />
@@ -133,9 +121,12 @@
         <option value="$PROJECT_DIR$/m-blog/sum_41.html" />
         <option value="$PROJECT_DIR$/m-blog/top-20.html" />
         <option value="$PROJECT_DIR$/m-blog/Blink-182.html" />
-        <option value="$PROJECT_DIR$/m-blog/GreenDay.html" />
         <option value="$PROJECT_DIR$/m-blog/NBHD.html" />
         <option value="$PROJECT_DIR$/m-blog/Panic! At the Disco.html" />
+        <option value="$PROJECT_DIR$/m-blog/galleryGD/Gallery.html" />
+        <option value="$PROJECT_DIR$/m-blog/galleryGD/js.js" />
+        <option value="$PROJECT_DIR$/m-blog/Mymiy_trol.html" />
+        <option value="$PROJECT_DIR$/m-blog/GreenDay.html" />
       </list>
     </option>
   </component>
@@ -156,7 +147,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-5" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1376" />
     <option name="height" value="384" />
   </component>
@@ -171,6 +163,11 @@
             <path>
               <item name="Coursach" type="b2602c69:ProjectViewProjectNode" />
               <item name="Coursach" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coursach" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coursach" type="462c0819:PsiDirectoryNode" />
+              <item name="m-blog" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -286,19 +283,21 @@
       <workItem from="1561302838378" duration="6296000" />
       <workItem from="1561383968054" duration="2531000" />
       <workItem from="1561387730984" duration="1774000" />
+      <workItem from="1561470012176" duration="356000" />
+      <workItem from="1561501701000" duration="469000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="234746000" />
+    <option name="totallyTimeSpent" value="235571000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16251831" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16178624" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" visible="true" weight="0.13831478" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" visible="true" weight="0.05882353" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -326,8 +325,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/menu1.html" />
-    <entry file="file://$PROJECT_DIR$/menucss.css" />
     <entry file="file://$PROJECT_DIR$/menu.html" />
     <entry file="file://$PROJECT_DIR$/m-blog/index1.html" />
     <entry file="file://$PROJECT_DIR$/m-blog/toypaj_blink.jpg">
@@ -587,36 +584,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state relative-caret-position="714">
           <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/m-blog/Blink-182.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="204" column="12" selection-start-line="204" selection-start-column="12" selection-end-line="204" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/m-blog/GreenDay.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="200" column="12" selection-start-line="200" selection-start-column="12" selection-end-line="200" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/m-blog/NBHD.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="2771">
           <caret line="163" column="12" selection-start-line="163" selection-start-column="12" selection-end-line="163" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/m-blog/Mymiy_trol.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2890">
-          <caret line="45" column="67" selection-start-line="45" selection-start-column="67" selection-end-line="45" selection-end-column="67" />
         </state>
       </provider>
     </entry>
@@ -624,6 +600,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
           <caret line="175" column="32" selection-start-line="175" selection-start-column="32" selection-end-line="175" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m-blog/galleryGD/js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m-blog/galleryGD/Gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m-blog/Mymiy_trol.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="114" column="119" selection-start-line="114" selection-start-column="119" selection-end-line="114" selection-end-column="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m-blog/Blink-182.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="97" column="24" selection-start-line="95" selection-start-column="20" selection-end-line="97" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m-blog/GreenDay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="111" column="86" selection-start-line="111" selection-start-column="86" selection-end-line="111" selection-end-column="86" />
         </state>
       </provider>
     </entry>
